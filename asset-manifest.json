@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kittens-rolodex/static/css/main.6427445e.css",
+    "main.js": "/kittens-rolodex/static/js/main.a5b5bb71.js",
+    "static/js/787.93a57935.chunk.js": "/kittens-rolodex/static/js/787.93a57935.chunk.js",
+    "index.html": "/kittens-rolodex/index.html",
+    "main.6427445e.css.map": "/kittens-rolodex/static/css/main.6427445e.css.map",
+    "main.a5b5bb71.js.map": "/kittens-rolodex/static/js/main.a5b5bb71.js.map",
+    "787.93a57935.chunk.js.map": "/kittens-rolodex/static/js/787.93a57935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6427445e.css",
+    "static/js/main.a5b5bb71.js"
+  ]
+}
